@@ -1,6 +1,6 @@
 {
-  "name": "discord.js-interactpoll",
-  "version": "1.0.0",
+  "name": "@relakyehydrix/discord.js-interactpoll",
+  "version": "1.0.2",
   "description": "Basic code to create a discord poll with embed and slash command interaction integration",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,6 @@
   "homepage": "https://github.com/Waffl3Development/discord.js-interactPoll#readme",
   "dependencies": {
     "discord.js": "^14.3.0"
-  }
+  },
+  "devDependencies": {}
 }
